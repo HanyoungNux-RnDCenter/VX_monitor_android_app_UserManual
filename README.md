@@ -32,13 +32,13 @@
 
 ### 앱을 처음 실행시키면 보이는 화면입니다.
 
-<img src="https://github.com/user-attachments/assets/a70bed3d-6659-46b6-bacb-c706e6beb131" width="25%"/>
+<img src="https://github.com/user-attachments/assets/a70bed3d-6659-46b6-bacb-c706e6beb131" width="40%"/>
 
 ## 2.2 VX Monitor 앱 연결하기
 
 ### 앱을 실행시킨 후에 온도 조절기와 스마트폰을 C 타입 - 미니 B 케이블을 사용해 연결합니다. 연결이 완료되었다면 좌측 상단의 연결 아이콘을 눌러 통신을 시작합니다.
 
-![connect_device](https://github.com/user-attachments/assets/7ca516b5-bff5-4258-99b1-fb8fc09a7211)
+<img src="(https://github.com/user-attachments/assets/7ca516b5-bff5-4258-99b1-fb8fc09a7211" width="40%"/>
 
 통신이 시작되면 모니터 화면이 자동으로 보여집니다.
 
@@ -46,7 +46,7 @@
 ---
 ## 메인 화면 구조
 
-![main_screen](https://github.com/user-attachments/assets/01ad3c13-7a08-44a8-9f46-a342f42cc857)
+<img src="https://github.com/user-attachments/assets/01ad3c13-7a08-44a8-9f46-a342f42cc857" width="40%"/>
 
 - 메뉴 : VX Monitor 메뉴 구성 영역 (연결, 기록, 화면 이동 등) 입니다.
 
@@ -58,13 +58,13 @@
 ---
 ## 4.1 상단 메뉴
 
-![top_menu](https://github.com/user-attachments/assets/6c7bc991-ade1-42b4-b967-957a271b163e)
+<img src="https://github.com/user-attachments/assets/6c7bc991-ade1-42b4-b967-957a271b163e" width="40%"/>
 
 - 연결 : 온도 조절기와 스마트폰의 연결 / 해제합니다.
-![connect_icon](https://github.com/user-attachments/assets/d31158e5-1fd6-4f48-bf7b-f368f7876826)
+- <img src="https://github.com/user-attachments/assets/d31158e5-1fd6-4f48-bf7b-f368f7876826" width="40%"/>
 
 - 기록 : 모니터링 데이터 저장 시작 / 중지합니다.
-![save_icon](https://github.com/user-attachments/assets/64c3d662-01f7-4424-91b6-56422c399f82)
+- <img src="https://github.com/user-attachments/assets/64c3d662-01f7-4424-91b6-56422c399f82" width="40%"/>
 
 - 공유 : 저장한 파일을 공유합니다.
 
@@ -75,7 +75,7 @@
 
 ## 4.2 하단 메뉴
 
-![bottom_menu](https://github.com/user-attachments/assets/064df8b3-0b33-455e-ae04-9e95e0db925c)
+<img src="https://github.com/user-attachments/assets/064df8b3-0b33-455e-ae04-9e95e0db925c" width="40%"/>
 
 - 모니터 : 모니터 화면으로 이동합니다.
 
@@ -92,23 +92,23 @@
 ## 5.1 모니터
 ### 통신이 연결되면 장비의 모니터 화면이 자동으로 보여집니다.
 
-![monitor_screen](https://github.com/user-attachments/assets/79ba08be-dadf-4dbf-8ab9-a9e1b5eee81c)
+<img src="https://github.com/user-attachments/assets/79ba08be-dadf-4dbf-8ab9-a9e1b5eee81c" width="40%"/>
 
 ## 5.2 상태
 ###  상태 화면은 장비 데이터가 리스트 형식으로 화면에 보여집니다.
 
-![text_monitor_screen](https://github.com/user-attachments/assets/f8045157-4879-4ee6-a097-eb11c0b622bc)
+<img src="https://github.com/user-attachments/assets/f8045157-4879-4ee6-a097-eb11c0b622bc" width="40%"/>
 
 ## 5.3 그래프
 ### 그래프 화면은 장비 데이터가 그래프 형식으로 화면에 보여집니다. 
 ### 하단 체크 박스를 눌러 원하는 값의 그래프만 확인 가능합니다. 
 
-![trend_screen](https://github.com/user-attachments/assets/af0b2c86-7415-4141-b55d-8ae3208d851d)
+<img src="https://github.com/user-attachments/assets/af0b2c86-7415-4141-b55d-8ae3208d851d" width="40%"/>
 
 ## 5.4 통신 로그
 ### 통신 로그 화면은 송신, 수신 데이터(통신 로그)를 보여줍니다. 
 
-![log_screen](https://github.com/user-attachments/assets/f9ffb558-2a89-40b7-b876-cbcffedd4097)
+<img src="https://github.com/user-attachments/assets/f9ffb558-2a89-40b7-b876-cbcffedd4097" width="40%"/>
 
 -  저장 : 통신 로그 데이터를 텍스트 파일로 저장합니다.
 
@@ -124,7 +124,7 @@
 ### 파라미터 화면을 실행하면 온도 조절기의 파라미터 데이터를 가져와서 보여줍니다.
 ### 다운로드한 데이터를 수정 후 다시 온도 조절기로 업로드 할 수 있습니다.
 
-![parameter_screen](https://github.com/user-attachments/assets/5473afee-71dc-47eb-a9df-9f29723c551d)
+<img src="https://github.com/user-attachments/assets/5473afee-71dc-47eb-a9df-9f29723c551d" width="40%"/>
 
 - 파라미터 열기 : 파라미터 값이 저장되어있는 파일을 불러와서 보여줍니다.
 
@@ -134,19 +134,19 @@
 
 - 부분 업로드 : 수정한 데이터를 원하는 그룹 단위로 온도 조절기에 업로드합니다.
 
-![upload_parameter](https://github.com/user-attachments/assets/59aac901-12fc-430f-a87f-3d395fbc9e34)
+<img src="https://github.com/user-attachments/assets/59aac901-12fc-430f-a87f-3d395fbc9e34" width="40%"/>
 
 - 전체 업로드 : 모든 파라미터 데이터를 온도 조절기에 업로드 합니다.
 
 - 회색 배경은 수정이 불가능한 데이터, 흰색 배경은 수정이 가능한 데이터 입니다. 수정을 원하는 데이터를 눌러 값을 변경 할 수 있습니다. 수정 전의 값은 텍스트 위에 표시됩니다.
 
-![change_parameter](https://github.com/user-attachments/assets/c1a71920-f706-41fb-8e61-4dfe27ed9b80)
+<img src="https://github.com/user-attachments/assets/c1a71920-f706-41fb-8e61-4dfe27ed9b80" width="40%"/>
 
 # 7. 설정
 
 ### 상단 오른쪽의 설정 아이콘을 누르면 설정 화면으로 이동합니다.
 
-![setting_screen](https://github.com/user-attachments/assets/6244669d-3aa4-467f-ac47-014654169c46)
+<img src="https://github.com/user-attachments/assets/6244669d-3aa4-467f-ac47-014654169c46" width="40%"/>
 
 - 아이콘 이름 표시 : 앱에 보여지는 아이콘의 이름을 끄고 키는 스위치 입니다.
 
@@ -169,7 +169,7 @@
 	- 일반 : 사용자가 저장 아이콘을 눌러서 저장을 시작하고 중지 아이콘을 눌러서 저장을 중지합니다.
 	- 운전 : 제어 운용 (RUN) 상태인 경우 자동으로 저장을 시작합니다.
 
-![running_mode](https://github.com/user-attachments/assets/30bba901-ab21-40bd-a911-ffea197ca3b4)
+<img src="https://github.com/user-attachments/assets/30bba901-ab21-40bd-a911-ffea197ca3b4" width="40%"/>
 
 - 주기 : 데이터 저장 주기 입니다. 초와 분 단위를 선택할 수 있습니다.
 
