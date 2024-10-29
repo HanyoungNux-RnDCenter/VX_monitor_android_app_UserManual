@@ -38,7 +38,7 @@
 
 ### 앱을 실행시킨 후에 온도 조절기와 스마트폰을 C 타입 - 미니 B 케이블을 사용해 연결합니다. 연결이 완료되었다면 좌측 상단의 연결 아이콘을 눌러 통신을 시작합니다.
 
-<img src="https://github.com/user-attachments/assets/7ca516b5-bff5-4258-99b1-fb8fc09a7211" width="60%"/>
+<img src="https://github.com/user-attachments/assets/7ca516b5-bff5-4258-99b1-fb8fc09a7211" width="80%"/>
 
 통신이 시작되면 모니터 화면이 자동으로 보여집니다.
 
@@ -58,7 +58,7 @@
 
 ## 4.1 상단 메뉴
 
-<img src="https://github.com/user-attachments/assets/6c7bc991-ade1-42b4-b967-957a271b163e" width="40%"/>
+<img src="https://github.com/user-attachments/assets/6c7bc991-ade1-42b4-b967-957a271b163e" width="80%"/>
 
 - 연결 : 온도 조절기와 스마트폰의 연결 / 해제합니다.
   <img src="https://github.com/user-attachments/assets/d31158e5-1fd6-4f48-bf7b-f368f7876826" width="60%"/>
@@ -75,7 +75,7 @@
 
 ## 4.2 하단 메뉴
 
-<img src="https://github.com/user-attachments/assets/064df8b3-0b33-455e-ae04-9e95e0db925c" width="40%"/>
+<img src="https://github.com/user-attachments/assets/064df8b3-0b33-455e-ae04-9e95e0db925c" width="80%"/>
 
 - 모니터 : 모니터 화면으로 이동합니다.
 
