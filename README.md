@@ -1,12 +1,7 @@
 # VX_monitor_android_앱_UserManual
-
-#  1. VX Monitor 앱
-
-## 1.1 
+# 목차
 
 1. VX Monitor 앱
-	- 메뉴구성
-	- 이 앱은
 2. VX Monitor 앱 시작하기. 
 	- 시작 화면
 	- VX Monitor 앱 연결하기
@@ -23,7 +18,8 @@
 7.  파라미터
 8. 설정
 
-## 1.2 이 앱은
+#  1. VX Monitor 앱
+
 ### 이 앱은 한영넉스 제품인 온도 조절기를 스마트폰에 연결하여 온도 조절기를 제어하고 모니터링 하는 앱입니다.
 
 # 2. VX Monitor 앱 시작하기
