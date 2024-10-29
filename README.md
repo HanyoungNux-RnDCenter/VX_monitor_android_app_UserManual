@@ -32,7 +32,7 @@
 
 ### 앱을 처음 실행시키면 보이는 화면입니다.
 
-<img src="(https://github.com/user-attachments/assets/a70bed3d-6659-46b6-bacb-c706e6beb131)" width="400"/>
+<img src="https://github.com/user-attachments/assets/a70bed3d-6659-46b6-bacb-c706e6beb131" width="400"/>
 
 ## 2.2 VX Monitor 앱 연결하기
 
