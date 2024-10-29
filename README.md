@@ -61,10 +61,10 @@
 <img src="https://github.com/user-attachments/assets/6c7bc991-ade1-42b4-b967-957a271b163e" width="40%"/>
 
 - 연결 : 온도 조절기와 스마트폰의 연결 / 해제합니다.
-- <img src="https://github.com/user-attachments/assets/d31158e5-1fd6-4f48-bf7b-f368f7876826" width="40%"/>
+- <img src="https://github.com/user-attachments/assets/d31158e5-1fd6-4f48-bf7b-f368f7876826" width="60%"/>
 
 - 기록 : 모니터링 데이터 저장 시작 / 중지합니다.
-- <img src="https://github.com/user-attachments/assets/64c3d662-01f7-4424-91b6-56422c399f82" width="40%"/>
+- <img src="https://github.com/user-attachments/assets/64c3d662-01f7-4424-91b6-56422c399f82" width="60%"/>
 
 - 공유 : 저장한 파일을 공유합니다.
 
@@ -115,7 +115,6 @@
 -  중지 : 통신 로그 데이터를 그만 보여줍니다.
 
 -  로그 보기 : 통신 로그 데이터를 다시 보여줍니다.
--  
 
 -  로그 지우기 : 화면에 보여지고 있는 통신 로그 데이터를 초기화합니다.
 
