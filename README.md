@@ -1,8 +1,4 @@
 # VX_monitor_android_app_UserManual
-VX monitor android app UserManual
-
-# VX Monitor APP 사용자 설명서
-<br>
 
 #  1. VX Monitor APP
 ---
